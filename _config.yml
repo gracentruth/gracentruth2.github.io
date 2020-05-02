@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Eunjin"
+title: OSS LAB14
+description: "A Jekyll Blog Theme For Hackers"
 author:
   name: "SomeHacker"
   email: "someone@somewebsite.somedomain"
-  url: "http://gracentruth.github.io"
+  url: "https:gracentruth.github.io"
 
 baseurl: /
 
